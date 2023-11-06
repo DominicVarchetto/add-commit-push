@@ -1,5 +1,7 @@
 import os
+import sys
 
+print 
 print ("Add Commit Push")
 print ("\nGit status")
 os.system ("git status")
