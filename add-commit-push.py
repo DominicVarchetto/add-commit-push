@@ -1,16 +1,10 @@
 import os
 import sys
 
-print ("Loading...")
-numOfArgs = len(sys.argv)
-print ("Arguments Passed: ", numOfArgs)
-
-
-
 
 
 print ("Add Commit Push")
-print ("\nGit status")
+print ("\ngit status")
 os.system ("git status")
 print ("\ngit add -A")
 os.system ("git add -A")
